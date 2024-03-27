@@ -46,7 +46,7 @@ h3 {
     background-size: cover;
     text-align: center;
     padding-top: 180px;
-    padding-bottom: 130px;
+    padding-bottom: 50px;
 }
 
 /* .profile {
@@ -60,7 +60,8 @@ h3 {
 } */
 
 .profile img {
-    border-radius: 30%;
+    /*사진 라운딩*/
+    border-radius: 100%;
 }
 
 /* page 2 */
