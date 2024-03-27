@@ -1,3 +1,3 @@
 # My Profile WEB Page developer
 
-https://ekzkfla.github.io/main.html/
+https://ekzkfla.github.io/myprofileweb
